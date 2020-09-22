@@ -1,0 +1,6 @@
+	Increase	Stable	Decline	Total
+Mammals	323	29	306	658
+Birds	726	82	778	1586
+Reptiles	104	11	112	227
+Amphibians	93	16	177	286
+Fishes	707	68	860	1635

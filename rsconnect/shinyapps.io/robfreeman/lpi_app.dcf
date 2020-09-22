@@ -1,0 +1,12 @@
+name: lpi_app
+title: lpi_app
+username:
+account: robfreeman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2726153
+bundleId: 3579206
+url: https://robfreeman.shinyapps.io/lpi_app/
+when: 1598951351.44232
+asMultiple: FALSE
+asStatic: FALSE
